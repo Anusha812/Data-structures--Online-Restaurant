@@ -1,0 +1,100 @@
+no,Dish,Price,,crunch,spice,,,,,,,
+1,Mexican Veg Tacos,205,Mexican,#CR10,8,na,Spicy,Leafy,Curry,Veggie,Veg,x
+2,Dal Makhni,165,Indian,#CR00,3,Spicy,Veggie,Curry,Veggie,Ground,Veg,x
+3,Shwarma,120,Indian,#CR05,7,Spicy,Farm,Chicken,Single,x,Non Veg,x
+4,Chicken Nuggets,125,American,#CR09,2,Spicy,Farm,Chicken,Single,x,Non Veg,x
+5,Veggie Pizza,175,Italian,#CR06,7,Spicy,Bread,Maida,x,x,Veg,x
+6,Pizza Marghareita,160,Italian,#CR06,4,Spicy,Bread,Maida,x,x,Veg,x
+7,Shahi Paneer,200,Indian,#CR00,7,Spicy,Paneer,Veggie,Curry,x,Veg,x
+8,Butter Kulcha,40,Indian,#CR04,3,Spicy,Bread,Maida,x,x,Veg,x
+9,Choco Lava Cake,120,American,#CR00,0,Sweet,Just Sweet,Egg,x,x,Veg,x
+10,Death By Chocolate,120,American,#CR00,0,Sweet,x,Just Sweet,x,x,Veg,x
+11,Cheese Maggi,70,Indian,#CR00,2,Spicy,Veggie,Rice Based,Noodles,x,Veg,x
+12,Butter Chicken,235,Indian,#CR01,3,na,Chicken,Curry,Meal,Farm,Non Veg,x
+13,Tandoori Fish,240,Indian,#CR05,7,x,Fish,Single,Sea,x,Non Veg,x
+14,Boiled Eggs,60,American,#CR00,0,x,Egg,x,x,x,Non Veg,x
+15,Dal Palak,150,Indian,#CR00,6,Spicy,Veggie,Curry,Veggie,Leafy,Veg,x
+16,Vegetable Kofta,175,Indian,#CR03,9,Spicy,Veggie,Curry,Veggie,Ground,Veg,x
+17,Egg Chicken Roll,75,American,#CR03,5,x,Farm,Others,Single,Egg,Non Veg,x
+18,Fish and Chips,135,American,#CR10,1,x,Fish,Single,Sea,x,Non Veg,x
+19,Chicken Lollipop,120,American,#CR10,8,x,Chicken,Single,Farm,x,Non Veg,x
+20,Calamari,205,American,#CR00,8,x,Others,Meal,Curry,Sea,Non Veg,x
+21,Garlic Prawns,270,American,#CR09,4,x,Others,Single,Sea,x,Non Veg,x
+22,Garlic Naan,65,Indian,#CR06,5,Spicy,Bread,Maida,x,x,Non Veg,x
+23,Chicken Tacos,125,Italian,#CR10,9,x,Chicken,Single,Farm,x,Non Veg,x
+24,Palak Paneer,189,Indian,#CR00,5,Spicy,Veggie,Curry,Paneer,x,Veg,x
+25,Gobi Manchurian,140,Chineese,#CR07,7,Spicy,Veggie,x,x,x,Veg,x
+26,Chilli Baby Corn,140,Chineese,#CR07,10,Spicy,Veggie,x,x,x,Veg,x
+27,Schezwan Noodles,135,Chineese,#CR00,9,Spicy,Veggie,Rice Based,Noodles,x,Veg,x
+28,Triple Fried Rice,175,Chineese,#CR08,7,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+29,Dim Sum,150,Chineese,#CR00,7,x,Veggie,Rice Based,Rice,Farm,Veg,x
+30,Pineallple Pie,120,American,#CR06,0,x,Cold,Fruit,Sweet,x,Veg,x
+31,Dumplings-Chicken,150,Chineese,#CR00,2,x,Chicken,Single,Farm,x,Non Veg,x
+32,Crab Meat,255,American,#CR00,2,x,Others,Single,Sea,x,Non Veg,x
+33,Tandoori Roti,35,Indian,#CR07,1,Spicy,Bread,Wheat,,x,Veg,x
+34,Dumplings-Veg,100,Chineese,#CR00,6,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+35,Chicken Momos,130,Chineese,#CR00,6,x,Chicken,Single,Farm,x,Non Veg,x
+36,Mushroom Curry,170,Indian,#CR00,7,Spicy,Veggie,Curry,Veggie,Ground,Veg,x
+37,Mushroom Momos,110,Chineese,#CR00,7,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+38,Spring Roll,110,Chineese,#CR09,4,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+39,Paneer Roll,140,Indian,#CR03,6,Spicy,Bread,Maida,Paneer,x,Veg,x
+40,French Fries,100,American,#CR08,4,Spicy,Veggie,x,x,x,Veg,x
+41,Cheesy Fries,120,American,#CR08,4,Spicy,Veggie,x,x,x,Veg,x
+42,Peri Peri Fries,120,American,#CR08,7,Spicy,Veggie,x,x,x,Veg,x
+43,Quail,200,American,#CR03,8,x,Others,Single,Farm,x,Non Veg,x
+44,Mexican Fries,130,Mexican,#CR08,8,Spicy,Veggie,x,x,x,Veg,x
+45,Potato Wedges,70,American,#CR08,5,Spicy,Veggie,x,x,x,Veg,x
+46,Potato Pops,60,American,#CR09,5,Spicy,Veggie,x,x,x,Veg,x
+47,Aloo Paratha,100,Indian,#CR04,4,x,Spicy,Wheat,Bread,x,Veg,x
+48,Chilli Crab,300,American,#CR03,10,x,Others,Single,Sea,x,Non Veg,x
+49,Chocolate Donut,65,American,#CR02,0,x,Hot,Just Sweet,Sweet,x,Veg,x
+50,Veg Spicy Noodles,155,Chineese,#CR02,10,Spicy,Veggie,Rice Based,Noodles,x,Veg,x
+51,Bread Pakoda,100,Indian,#CR08,7,Spicy,Bread,Veggie,x,x,Veg,x
+52,Mirch Pakoda,100,Indian,#CR08,10,Spicy,Bread,Veggie,x,x,Veg,x
+53,Onion Pakoda,100,Indian,#CR08,5,Spicy,Bread,Veggie,x,x,Veg,x
+54,Corn Pakoda,100,Indian,#CR08,4,Spicy,Bread,Veggie,x,x,Veg,x
+55,Aloo Pakoda,80,Indian,#CR08,3,Spicy,Bread,Veggie,x,x,Veg,x
+56,Prawn Pakoda,150,Indian,#CR09,8,Spicy,Sea,Others,Single,x,Non Veg,x
+57,Virgin Mohito,60,American,#CR00,0,x,x,x,x,x,Veg,x
+58,Gulab Jamoon,40,Indian,#CR00,0,x,Hot,Just Sweet,Sweet,x,Veg,x
+59,Lemonade,35,American,#CR00,0,x,x,x,x,x,Veg,x
+60,Rasgulla,50,Indian,#CR00,0,x,Hot,Just Sweet,Sweet,x,Veg,x
+61,Steak,200,American,#CR04,7,Farm,Beef,Single,x,x,Non Veg,x
+62,Turkey Burger,225,Mexican,#CR05,7,Farm,Chicken,Single,x,x,Non Veg,x
+63,Paneer 65,170,Indian,#CR09,9,Spicy,Veggie,Paneer,x,x,Veg,x
+64,Chicken 65,200,Indian,#CR09,9,Farm,Chicken,Single,x,x,Non Veg,x
+65,Garlic Naan,70,Indian,#CR05,6,Spicy,Bread,Maida,x,x,Veg,x
+66,Rumali Roti,60,Indian,#CR00,0,Spicy,Bread,Maida,x,x,Veg,x
+67,Stuffed Kulcha,85,Indian,#CR04,6,Spicy,Bread,Maida,x,x,Veg,x
+68,Stuffed Paratha,85,Indian,#CR04,6,Spicy,Bread,Maida,x,x,Veg,x
+69,Masala Papad,70,Indian,10,8,Spicy,Bread,Wheat,Veggie,x,Veg,x
+70,Cheesy Papad,75,Indian,10,8,Spicy,Bread,Wheat,x,x,Veg,x
+71,Chicken Wings,150,American,8,8,Farm,Chicken,Single,x,x,Non Veg,x
+72,Popcorn-butter,155,American,9,0,Spicy,x,x,x,x,Veg,x
+73,Popcorn-Caramel,200,American,9,0,Spicy,x,x,x,x,Veg,x
+74,Popcorn-Cheese,200,American,9,0,Spicy,x,x,x,x,Veg,x
+75,Popcorn-Mexican,200,Mexican,9,8,Spicy,x,x,x,x,Veg,x
+76,Popcorn-Chocolate,200,American,9,0,Spicy,x,x,x,x,Veg,x
+77,Dal Fry,170,Indian,4,4,Spicy,Veggie,Curry,Veggie,Ground,Veg,x
+78,Rajma Chawal,180,Indian,#CR00,1,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+79,Curd Rice,120,Indian,#CR00,0,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+80,Idli,50,Indian,#CR00,0,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+81,Wada,55,Indian,8,3,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+82,Plain Dosa,50,Indian,7,0,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+83,Masala Dosa,50,Indian,7,6,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+84,Bisisbelebhath,50,Indian,#CR00,7,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+85,Puliogre,50,Indian,#CR00,7,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+86,Upma,50,Indian,#CR00,3,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+87,Neer Dosa,50,Indian,#CR06,2,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+88,Rava Dosa,50,Indian,#CR06,2,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+89,Set Dosa,50,Indian,#CR08,2,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+90,Onion Utthappam,60,Indian,#CR05,8,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+91,Onion Dosa,60,Indian,#CR05,7,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+92,Cheese Dosa,60,Indian,#CR09,2,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+93,Paper Dosa,60,Indian,#CR10,2,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+94,Fried Idli,45,Indian,#CR10,2,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+95,Lemon Rice,60,Indian,#CR02,2,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+96,Poha,35,Indian,#CR00,2,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+97,Aloo Poha,50,Indian,#CR00,1,Spicy,Veggie,Rice Based,Rice,x,Veg,x
+98,Mushroom Parantha,75,Indian,#CR05,7,Spicy,Bread,Wheat,x,x,Veg,x
+99,Paneer Paratha,75,Indian,#CR04,5,Spicy,Bread,Wheat,Paneer,x,Veg,x
